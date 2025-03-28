@@ -2,4 +2,4 @@
   
 Participantes  
 - Birgi Facundo  
-- Alassia Lucas 
+- [Lucas Alassia](lucas_alassia.md) 
